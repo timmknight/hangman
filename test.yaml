@@ -1,0 +1,11 @@
+--- !ruby/object:Hangman
+name: |
+  n
+wrong_guesses: 1
+word: FOX
+guess_arr:
+- _
+- O
+- _
+wrong:
+- H
